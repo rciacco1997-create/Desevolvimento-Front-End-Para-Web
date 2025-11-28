@@ -15,7 +15,7 @@ Git/GitHub: Versionamento de código.
 
 # 📂 Estrutura do Repositório #
 
-# Atividade	Conteúdo	#
+* Atividade	Conteúdo	*
 
 # Site Pessoal	Criação de uma página de apresentação utilizando tags semânticas.	#
 # Landing Page	Desenvolvimento de página com layout flexível.	#
