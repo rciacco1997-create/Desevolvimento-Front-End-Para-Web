@@ -12,7 +12,9 @@ HTML5: Estruturação semântica.
 CSS3: Estilização, Flexbox, Grid Layout e Animações.
 JavaScript (ES6+): Manipulação de DOM, Eventos e Fetch API.
 Git/GitHub: Versionamento de código.
-📂 Estrutura do Repositório
+
+# 📂 Estrutura do Repositório #
+
 Atividade	Conteúdo	
 Site Pessoal	Criação de uma página de apresentação utilizando tags semânticas.	
 Landing Page	Desenvolvimento de página com layout flexível.	
